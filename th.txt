@@ -1,0 +1,56 @@
+Programming Language : 
+1) Programming Language is a set of instruction which is used to create a program to perform a specific task.
+
+C,c++ ,java --->
+main(){}
+
+
+Scripting Language :
+1) Scripting Language is a subset of programming language.
+HTML CSS JAVASCRIPT , python
+1st line ---> 
+
+
+1)statically typed language
+
+    when you define the variables you have to define the data type of the variable.
+
+2)dynamically typed language
+
+    when you define the variables you don't have to define the data type of the variable.
+
+
+client side scripting language : -> browser
+server side scripting / prog language   :- console based application, web application, mobile application, desktop application
+
+
+JAVA SCRIPT :-
+
+client side scripting language
+client / browser :-
+
+USE:-
+to manupulate the DOM (Document Object Model) of the web page.
+<html></html>
+
+window object :-
+Document 
+
+
+---------------------------
+
+we can write the javascript code in 3 ways :-
+1) inline javascript
+2) internal javascript
+3) external javascript [...] .js
+
+
+
+variable:varibale are containers which are used to store the data.
+
+to declare variable in js we use 3 keywords :-
+1)let : block scope
+2)const : constant, block scope
+3)var : global scope
+
+
