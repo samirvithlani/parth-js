@@ -1,0 +1,22 @@
+operators:
+defination : operators are special symbols in python that carry out any specific operation on operands.
+
+1)unary operators:
+        1)it requires only one operand.   
+            increment and decrement operators:
+                a++ , ++a
+        
+2)binary operators:
+    :it requires minimum two operands.
+        
+3)ternary operators:    
+    :it requires three operands.
+
+
+1)arithmetic operators: + , - , * , / , %  , **
+2)assignment operators: = , += , -= , *= , /= , %= , //= , **=
+3)comparison operators: == , != , > , < , >= , <=, ===, !==
+4)logical operators:  && , || , !
+5)bitwise operators: & , | , ^ , ~ , << , >>
+6)special operators: ., &
+    

@@ -54,3 +54,19 @@ to declare variable in js we use 3 keywords :-
 3)var : global scope
 
 
+compier or interpreter :-
+
+
+java script was developed by brendan eich in 1995. for netscape navigator browser.
+java script engine :-
+
+1)spider monkey : firefox --> 
+2)chakra : internet explorer
+3)v8 : google chrome -->
+5)javascript core : safari
+6)rhino : java
+
+
+
+
+
