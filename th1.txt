@@ -1,0 +1,64 @@
+programming Language:programming language is set of instruction given to computer to perform specific task.
+ It is also called as computer language. 
+ It is used to develop software, application, websites, etc
+ . There are many programming languages available in market. 
+ Some of them are C, C++, Java, Python, PHP, etc. Each programming language has its own syntax and semantics. 
+ Syntax is set of rules which defines how to write a program in that language. Semantics is set of rules which defines the meaning of program written in that language. Programming language is used to develop software, application, websites, etc. There are many programming languages available in market. Some of them are C, C++, Java, Python, PHP, etc. Each programming language has its own syntax and semantics. Syntax is set of rules which defines how to write a program in that language. 
+ Semantics is set of rules which defines the meaning of program written in that language.
+
+ Scripting Language:Scripting language is a programming language which is interpreted by another program at runtime
+rather than compiled by the computer's processor like other programming languages.
+
+HTML,CSS,JAVASCRIPT,PYTHON are the example of scripting language.
+
+main() -->
+script ()--> [] [] [ ][]
+
+client side scripting / programming language
+    -->browser --> html,css,javascript
+server side scripting / programming language
+    -->server --> php,python,java,asp.net
+
+
+statically typed language
+    -->when you declare variable you have to specify the type of variable
+        int a =10;
+dynamically typed language:
+    -->when you declare variable you don't have to specify the type of variable
+        a=10;
+    --> data type --> run time --> by engine / ,compiler / interpreter
+    -> 10 --> ,"" -->     
+
+
+
+JAVASCRIPT : is scripting language which runs on client side...
+
+use of javascript is to manupulate the DOM(Document Object Model) of the webpage.
+
+
+history of javascript
+
+developed : Brendan Eich --> 1995 --> netscape navigator --> live script --> javascript
+
+1)spider monkey --> firefox --> mozilla -> netscape navigator
+2)chakra --> internet explorer --> microsoft
+3)v8 --> google chrome --> google
+4)javascript core --> safari --> apple
+5)rhino --> java --> oracle
+
+
+3 ways to write javascript code in html page
+1)inline
+2)internal
+3)external [.js file]
+
+
+
+3 keyword to declare variable in javascript
+1)var
+2)let
+3)const
+
+var is having global scope
+let is having block scope
+const is having block scope and it is constant

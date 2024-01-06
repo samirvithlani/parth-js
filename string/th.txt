@@ -1,0 +1,14 @@
+length
+concat
+toUppercase
+toLowerCase
+trim
+rightTrim
+leftTrim
+startsWith
+endsWith
+includes
+indexOf
+lastIndexOf
+slice
+substring
