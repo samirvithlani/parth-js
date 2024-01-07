@@ -1,8 +1,10 @@
-var data = "Elon Musk"
+var data = "ElKKonK MusKk"
 
 //var x = data.startsWith("Elon")
 //var x = data.startsWith("n",3)
 //console.log(x)
+var x = data.endsWith("K",2)
+console.log("endswith...",x)
 
 var message = "I am going to plant bomb in the city"
 //var x = message.includes("m")
