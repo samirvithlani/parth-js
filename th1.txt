@@ -62,3 +62,12 @@ developed : Brendan Eich --> 1995 --> netscape navigator --> live script --> jav
 var is having global scope
 let is having block scope
 const is having block scope and it is constant
+
+
+create 4 functions
+1)find area of circle
+2)find area of rectangle
+3)find area of triangle
+4)find area of square
+
+
