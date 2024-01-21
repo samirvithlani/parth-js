@@ -71,3 +71,24 @@ create 4 functions
 4)find area of square
 
 
+
+3 functions -->
+add()
+sub()
+mul()
+
+1 driver ufnciton  (choice)
+
+   switch case(choice){
+
+    case: "add":
+        add(10,20)
+    case:
+    case:
+   }
+
+
+
+driver("add")
+
+
