@@ -92,3 +92,10 @@ mul()
 driver("add")
 
 
+
+if you need to ide any tags...
+id --> unique
+class [css] --> multiple
+name [] --> multiple
+tagName --> multiple
+querySelector
