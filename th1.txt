@@ -99,3 +99,12 @@ class [css] --> multiple
 name [] --> multiple
 tagName --> multiple
 querySelector
+
+
+
+onmouse over and out with same functinos...
+
+images array --->
+mouse move --> image change
+
+
