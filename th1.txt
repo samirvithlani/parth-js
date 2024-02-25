@@ -108,3 +108,4 @@ images array --->
 mouse move --> image change
 
 
+SET INTERVAL
