@@ -1,0 +1,13 @@
+Promise :--> penidng,fulfill,reject
+sync
+
+Promise is a class
+
+nonsync:
+
+******************************************  print
+*_*_*_
+-------------------------------------------- print
+
+
+syncronous: Promise class
