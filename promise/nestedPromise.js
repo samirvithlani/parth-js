@@ -37,6 +37,8 @@ const payment = (orderData) =>{
 
 }
 
+//callback hell
+//async await...
 console.log("Order is about to place")
 order().then((data)=>{
     console.log("Order is placed...",data)
