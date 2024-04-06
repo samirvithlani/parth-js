@@ -1,0 +1,22 @@
+//HOTEL BOOK:
+hotesl:[
+    {
+        id:1,
+        name:"Hotel Taj",
+        rooms:10,
+        booked:5,
+        price:1000
+    },
+    {
+        id:2,
+        name:"Hotel Oberoi",
+        rooms:15,
+        booked:10,
+        price:2000
+    }
+]
+
+//book hotel = (name,rooms)
+//check fisrst hotel and then room is available or not
+//payment - (hotelBook)
+//payment data...

@@ -109,3 +109,47 @@ mouse move --> image change
 
 
 SET INTERVAL
+-----------------------------------
+
+ADV JAVA:
+
+DB -> dao --> serv -->jsp
+-----------------------
+
+db connection
+-----------------------
+
+backend --> frontend
+------------------------------
+
+ZOMATO,UBER,OLA --> google map
+
+cg road --> 23.123,72.123
+-------------------
+
+GOOGLE API --> MAPS API
+
+API --> APPLICATION PROGRAMMING INTERFACE
+
+zomato --> google map --> api --> lat,long --> cg road --> 23.123,72.123
+
+<-->
+
+GET
+POST
+DELETE
+PUT
+
+Request Method
+
+API CALLING:
+fetch function  : promise
+ajax
+
+
+API --> URL :->
+
+JSON RESPONSE --> 
+
+
+
